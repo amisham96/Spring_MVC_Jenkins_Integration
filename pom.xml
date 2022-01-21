@@ -12,6 +12,7 @@
 	<groupId>com.myapp</groupId>
 	<artifactId>studentmanagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>studentmanagement</name>
 	<description>Student Management System Using Spring Boot</description>
 	<properties>
